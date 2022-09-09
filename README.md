@@ -1,23 +1,23 @@
-## Read Me Generator 
-[![License](https://img.shields.io/badge/License-BSD_2--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)
+## ReadMe-Generator
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ### Description
-This generates a readme based on the inputs.
+Generates a readme file based on inputs to prompts in a terminal
 ### Table of Contents
-- [Installation](https://github.com/Anlubelni/Read Me Generator#installation)
-- [Usage](https://github.com/Anlubelni/Read Me Generator#usage)
-- [License](https://github.com/Anlubelni/Read Me Generator#license)
-- [Contributing](https://github.com/Anlubelni/Read Me Generator#contributing)
-- [Tests](https://github.com/Anlubelni/Read Me Generator#tests)
-- [Questions](https://github.com/Anlubelni/Read Me Generator#questions)
+- [Installation](https://github.com/Anlubelni/ReadMe-Generator#installation)
+- [Usage](https://github.com/Anlubelni/ReadMe-Generator#usage)
+- [License](https://github.com/Anlubelni/ReadMe-Generator#license)
+- [Contributing](https://github.com/Anlubelni/ReadMe-Generator#contributing)
+- [Tests](https://github.com/Anlubelni/ReadMe-Generator#tests)
+- [Questions](https://github.com/Anlubelni/ReadMe-Generator#questions)
 ### Installation
 To install necessary dependencies, run the following command:
 `npm install`
 ### Usage
-If you want to add something to the repo, hit me up!
+Please hit me up if you like what you see!
 ### License
-BSD 2
+MIT
 ### Contributing
-Email me at the email above!
+N/A
 ### Test
 `N/A`
 ### Questions

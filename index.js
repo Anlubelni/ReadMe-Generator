@@ -74,30 +74,30 @@ function start() {
 // Generates the markup
 function generateReadMe(data) {
     return (
-    `## ${data.projectName} 
-    ${renderLicenseLink(data.licenseType)}
-    ### Description
-    ${data.projectDescription}
-    ### Table of Contents
-    - [Installation](https://github.com/Anlubelni/${data.projectName}#installation)
-    - [Usage](https://github.com/Anlubelni/${data.projectName}#usage)
-    - [License](https://github.com/Anlubelni/${data.projectName}#license)
-    - [Contributing](https://github.com/Anlubelni/${data.projectName}#contributing)
-    - [Tests](https://github.com/Anlubelni/${data.projectName}#tests)
-    - [Questions](https://github.com/Anlubelni/${data.projectName}#questions)
-    ### Installation
-    To install necessary dependencies, run the following command:
-    \`${data.installInstructions}\`
-    ### Usage
-    ${data.repoAdditionalInfo}
-    ### License
-    ${data.licenseType}
-    ### Contributing
-    ${data.contributionInfo}
-    ### Test
-    \`${data.testInstruction}\`
-    ### Questions
-    For additional information on the repo, visit my Github account [here](https://github.com/${data.username} ) or send any questions you have to ${data.email}. 
+    `## ${data.projectName}
+${renderLicenseLink(data.licenseType)}
+### Description
+${data.projectDescription}
+### Table of Contents
+- [Installation](https://github.com/Anlubelni/${data.projectName}#installation)
+- [Usage](https://github.com/Anlubelni/${data.projectName}#usage)
+- [License](https://github.com/Anlubelni/${data.projectName}#license)
+- [Contributing](https://github.com/Anlubelni/${data.projectName}#contributing)
+- [Tests](https://github.com/Anlubelni/${data.projectName}#tests)
+- [Questions](https://github.com/Anlubelni/${data.projectName}#questions)
+### Installation
+To install necessary dependencies, run the following command:
+\`${data.installInstructions}\`
+### Usage
+${data.repoAdditionalInfo}
+### License
+${data.licenseType}
+### Contributing
+${data.contributionInfo}
+### Test
+\`${data.testInstruction}\`
+### Questions
+For additional information on the repo, visit my Github account [here](https://github.com/${data.username} ) or send any questions you have to ${data.email}. 
     `);
   }
 
