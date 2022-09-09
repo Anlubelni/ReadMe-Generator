@@ -1,14 +1,23 @@
 {
-  "name": "static-site",
+  "name": "read-me-generatro",
   "version": "1.0.0",
-  "description": "",
+  "description": "Creates a read me for a project based on the prompts provided in the terminal",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anlubelni/ReadMe-Generator.git"
+  },
+  "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anlubelni/ReadMe-Generator/issues"
+  },
+  "homepage": "https://github.com/Anlubelni/ReadMe-Generator.git#readme",
   "dependencies": {
-    "inquirer": "^6.3.1"
+    "inquirer": "^8.2.4"
   }
 }
